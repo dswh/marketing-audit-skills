@@ -18,7 +18,7 @@ Create Marketing-Strategy-and-Action-Plan.html and Client-Decision-Summary.html.
 
 ## Working rules
 
-Use the materials the user supplies. Read the existing business context and report if available.
+Use the materials the user supplies. Read .agents/marketing-business-context.md and the actual existing reports when available. A filename alone is not the report contents.
 Ask once for missing information that could change the result. The user may proceed with unknowns.
 Research permitted public pages when browsing is available. Record the URL and date checked. A supplied URL is not evidence that it was opened. If access fails, ask for page text or record a research task.
 Keep observed facts, customer statements, provider claims, assumptions and proposals distinct. Preserve product labels and sample limits. Do not invent metrics, customer quotes, people, budgets, sources or performance.
