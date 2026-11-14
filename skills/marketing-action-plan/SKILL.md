@@ -5,7 +5,12 @@ description: Turn a selected marketing playbook into a practical four-week actio
 
 # Marketing action plan
 
-Use the chosen playbook and its evidence. Do not silently replace the strategy or assume unconfirmed budget and capacity.
+## Inputs
+
+Selected playbook, evidence, owners, access, budget and time. Supply actual file contents, accessible files or pasted material. Relevant prior reports can be replaced by equivalent raw context. Keep supplied facts, historical results and authorized planning assumptions separate.
+
+
+Use the chosen playbook and its evidence. Do not silently replace the strategy. Separate actual resource limits from user-approved planning assumptions. Budget allocation and staged spending must reconcile to the total; media is not automatically the entire campaign budget.
 Create four weekly rows: action, deliverable, proposed owner, dependency, tool/access, effort or cost status, success measure and next decision.
 Sequence prerequisites before execution. Separate ready work from work blocked by access, audience research, policy, owner time or budget.
 Draft the first useful asset, such as path guidance, a content brief, a creator brief or an email outline. It remains proposed until reviewed.
@@ -21,11 +26,11 @@ Create 30-Day-Action-Plan.html and update section action-plan. Keep the first dr
 Use the materials the user supplies. Read .agents/marketing-business-context.md and the actual existing reports when available. A filename alone is not the report contents.
 Ask once for missing information that could change the result. The user may proceed with unknowns.
 Research permitted public pages when browsing is available. Record the URL and date checked. A supplied URL is not evidence that it was opened. If access fails, ask for page text or record a research task.
-Keep observed facts, customer statements, provider claims, assumptions and proposals distinct. Preserve product labels and sample limits. Do not invent metrics, customer quotes, people, budgets, sources or performance.
+Keep observed facts, customer statements, provider claims, assumptions and proposals distinct. Preserve product labels and sample limits. Do not invent historical metrics, customer quotes, people, sources or actual performance. When the user authorizes planning assumptions, label each as an assumption, show its source and calculations, and keep it separate from actuals. Never call an assumed rate a market benchmark.
 Use plain words, short bullets, a useful diagram or compact comparison, and a small source list. No decorative scores or unsupported earnings claims.
 Create local draft files only. Sharing, publishing, account access, messages and spending require their own authorization.
 
 ## Report continuity
 
-Each output must work as a standalone report. Add or update its matching section in Marketing-Strategy-and-Action-Plan.html while preserving all other sections and sources. Start the master if absent. Missing sections remain missing, not invented.
+Keep each working output understandable with its own context. Working notes are not automatically separate client deliverables or paid services. Add or update its matching section in Marketing-Strategy-and-Action-Plan.html while preserving all other sections and sources. Start the master if absent. Missing sections remain missing, not invented.
 If files cannot be written, return the report content and intended filename. Mark owners, targets, budgets and copy as proposed until agreed.

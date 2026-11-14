@@ -20,9 +20,9 @@ Select all seven skills when prompted. Use --skill with the exact skill name to 
 
 ## Pipeline
 
-| Process | Skill | Deliverable |
+| Process | Skill | Output |
 |---|---|---|
-| Understand the business | marketing-business-audit | Marketing Goal Brief + Business Context Brief |
+| Discover the business | marketing-business-audit | Discovery notes + working marketing brief |
 | Research the customers | marketing-customer-research | Customer Research Report |
 | Compare the alternatives | marketing-competitor-research | Competitor Research Report |
 | Audit the customer journey | marketing-journey-audit | Annotated Customer Journey Audit |
@@ -34,7 +34,7 @@ Select all seven skills when prompted. Use --skill with the exact skill name to 
 
 Give the agent one business, one offer, available website/client materials and a marketing goal. Ask it to use marketing-business-audit. Each subsequent skill can work on its own if its raw inputs are supplied.
 
-Every skill creates a standalone HTML report and updates its matching section in Marketing-Strategy-and-Action-Plan.html. The context skill also writes .agents/marketing-business-context.md for reuse.
+Each skill creates a working output and updates its matching section in Marketing-Strategy-and-Action-Plan.html. Discovery notes are engagement context; the final client deliverable is the strategy and action plan. The business-audit skill also writes .agents/marketing-business-context.md for reuse.
 
 The agent organizes evidence, researches permitted sources, drafts and checks consistency. People confirm business facts, choose tradeoffs and approve access, spending and sharing. No skill launches campaigns or guarantees marketing results.
 
