@@ -14,6 +14,7 @@ Compare our offer with two relevant alternatives. If none are supplied, research
 Use dated offer pages. Compare audience, customer job, promise, format, visible price and billing basis, proof and next step. Separate direct competitors from different ways to solve the problem.
 Do not compare prices without their scope or imply that a workshop directory is a single equivalent offer. Label provider claims, inaccessible details and unknown checkout totals.
 Extract two meaningful differences and one possible positioning angle. State the proof our business would need to use that angle.
+Answer what the buyer can actually achieve for the money, time and effort requested. Show a verified output, inputs and effort when supplied; otherwise make this a proof request. Ask lost prospects which alternatives they considered. Provider pages alone cannot establish market-wide differentiation.
 Do not infer traffic, market share, sales, customer outcomes or conversion superiority from a marketing page.
 
 ## Output
@@ -27,6 +28,8 @@ Ask once for missing information that could change the result. The user may proc
 Research permitted public pages when browsing is available. Record the URL and date checked. A supplied URL is not evidence that it was opened. If access fails, ask for page text or record a research task.
 Keep observed facts, customer statements, provider claims, assumptions and proposals distinct. Preserve product labels and sample limits. Do not invent historical metrics, customer quotes, people, sources or actual performance. When the user authorizes planning assumptions, label each as an assumption, show its source and calculations, and keep it separate from actuals. Never call an assumed rate a market benchmark.
 Use plain words, short bullets, a useful diagram or compact comparison, and a small source list. No decorative scores or unsupported earnings claims.
+Make the output a decision blueprint, not an essay. Give each section one useful visual artifact and one decision. Use short labels and content-fit cards. Put detailed evidence behind the main reading view. Never replace missing actuals with modeled numbers or use an invented score to make the report look complete.
+When evidence cannot locate the constraint, recommend the smallest investigation that can. A supplied budget or an attractive screenshot does not justify a paid pilot. Name the proposed owner, missing evidence and release condition instead.
 Create local draft files only. Sharing, publishing, account access, messages and spending require their own authorization.
 
 ## Report continuity
