@@ -25,7 +25,7 @@ Select all seven skills when prompted. Use --skill with the exact skill name to 
 | Understand the business | marketing-business-audit | Marketing Goal Brief + Business Context Brief |
 | Research the customers | marketing-customer-research | Customer Research Report |
 | Compare the alternatives | marketing-competitor-research | Competitor Research Report |
-| Audit the customer journey | marketing-journey-audit | Customer Journey Audit |
+| Audit the customer journey | marketing-journey-audit | Annotated Customer Journey Audit |
 | Choose the playbook | marketing-playbook-selection | Marketing Playbook Recommendation |
 | Plan the next 30 days | marketing-action-plan | 30-Day Action Plan + First Asset |
 | Assemble the client report | marketing-client-report | Marketing Strategy and Action Plan |
@@ -39,5 +39,7 @@ Every skill creates a standalone HTML report and updates its matching section in
 The agent organizes evidence, researches permitted sources, drafts and checks consistency. People confirm business facts, choose tradeoffs and approve access, spending and sharing. No skill launches campaigns or guarantees marketing results.
 
 No paid research account is required to start. When source access is unavailable, provide page text or keep the missing research visible.
+
+The journey-audit skill includes a visual guide and a Python 3 renderer for actual screenshots, numbered annotations and finding cards. Source images remain unchanged. The report skill preserves this evidence in the final document. Native HTML/SVG is a fallback when Python is unavailable.
 
 These are original, focused instructions for this workflow. The repository contains no client records, account credentials, recordings or case data.

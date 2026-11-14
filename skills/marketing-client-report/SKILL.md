@@ -11,6 +11,7 @@ Open with the recommendation, why it fits, the first action and decisions needed
 Check that the offer, buyer, primary conversion, chosen channel, first test and measurement agree across sections. Surface contradictions and missing material rather than inventing a bridge.
 Add an approval list for scope, policy/copy, owner time, access, budget and next review. Keep service scope distinct from promised marketing results.
 Use readable responsive HTML, short bullets, labeled diagrams and compact comparisons. Make any references available in a small source section. Never embed private customer data in a public report.
+Preserve the audit's annotated screenshots, numbered findings, source metadata and original/annotation toggle. Embed required images or package their actual files; confirm that the final report opens without broken visual references. A proposed redesign must remain separate from observed evidence.
 
 ## Outputs
 

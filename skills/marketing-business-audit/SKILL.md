@@ -11,6 +11,7 @@ Name the business's stated growth problem separately from any measured marketing
 Define the primary customer action and how it is counted. Add a quality or downstream-value measure, baseline, agreed target, available budget, team time and constraints. Unknown values stay To confirm.
 For a registration business, distinguish form starts, completed valid registrations, attendance and payment. For ecommerce, distinguish orders, margin and repeat purchases. For software, distinguish demos, activation and paid accounts. For local services, distinguish enquiries and completed bookings.
 Keep the scope to one offer. End with at most three unanswered questions that could change the goal or scope.
+When useful, retain an original screenshot of the offer and primary CTA with its URL, viewport, date and visible state. Pass it to marketing-journey-audit for annotation; reuse captures instead of repeating them. Keep private account or customer details out of shareable evidence.
 
 ## Outputs
 
